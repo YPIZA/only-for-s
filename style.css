@@ -119,6 +119,6 @@ div.sobres {
 
 div.container {
     display: none;
-    position: fixed;
+    position: absolute;
     background: rgba(0, 0, 0, 0.6);
 }
